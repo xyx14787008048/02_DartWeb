@@ -4,6 +4,11 @@
 - 必做：改写“一”， “二”， “三”
 - 必做：阅读HTML相关知识
 - 选做：扩展阅读
+- dart pub add build_runner build_web_compilers --dev
+- dart pub global activate webdev
+- export PATH="$PATH":"$HOME/.pub-cache/bin"
+- dart pub get
+- webdev serve
 
 ## 一、Add elements to the DOM
 
